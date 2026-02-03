@@ -1,3 +1,5 @@
+# Raw data files (too large for GitHub)
+data/raw/*.csv
 
-# data
-file_data/raw/
+# OS files
+.DS_Store
