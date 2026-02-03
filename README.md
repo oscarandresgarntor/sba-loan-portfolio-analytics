@@ -1,6 +1,6 @@
 # SBA 7(a) Loan Portfolio Analytics
 
-A SQL analytics project demonstrating Senior Data Analyst skills using **SBA 7(a) Loan Program data** - the U.S. government's primary small business lending program with 900,000+ loan records spanning 1991-present.
+A SQL analytics project demonstrating Senior Data Analyst skills using **SBA 7(a) Loan Program data** - the U.S. government's primary small business lending program with 900,000+ loan records spanning 1991-2025.
 
 ## Project Overview
 

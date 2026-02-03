@@ -6,7 +6,7 @@
 
 **Source:** [U.S. Small Business Administration FOIA Data](https://data.sba.gov/en/dataset/7-a-504-foia)
 
-**Description:** The SBA 7(a) loan program is the U.S. government's primary program for providing financial assistance to small businesses. This dataset contains loan-level information for all 7(a) loans approved since 1991.
+**Description:** The SBA 7(a) loan program is the U.S. government's primary program for providing financial assistance to small businesses. This dataset contains loan-level information for all 7(a) loans approved since 1991 to 2025.
 
 **Download Instructions:**
 1. Visit [data.sba.gov](https://data.sba.gov/en/dataset/7-a-504-foia)
